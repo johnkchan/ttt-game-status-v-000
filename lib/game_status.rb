@@ -39,3 +39,6 @@ def full?(board)
     number != " "
   end
 end
+
+def draw?(board)
+  
